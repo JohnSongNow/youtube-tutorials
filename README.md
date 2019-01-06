@@ -7,7 +7,7 @@ The relevant folder(s) for each video
 
 |Video Name|Relevant Folder(s)|
 |---|---|
-|*Voting Systems and Arrows Theorem*|*Voting-Concesus*
+|*Voting Systems and Arrows Theorem*|[*Voting Concesus*](https://github.com/JohnSongNow/youtube-tutorials/tree/master/Voting-Concesus)|
 
 ## Contributing/Error Correction
 If you see any error or would like to contribute to this repoistory feel free to send me a message and/or submit a pull request.
