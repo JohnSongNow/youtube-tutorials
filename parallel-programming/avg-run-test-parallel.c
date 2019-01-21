@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include "omp.h"
 
 #define n 4096
 
@@ -30,7 +31,6 @@ int main()
 	}
 
 	struct timespec start, finish;
-	double time_msec = 0.0;
 
     // starting out timer
 	clock_gettime(CLOCK_MONOTONIC, &start);

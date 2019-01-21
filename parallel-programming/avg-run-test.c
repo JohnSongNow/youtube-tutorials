@@ -30,7 +30,6 @@ int main()
 	}
 
 	struct timespec start, finish;
-	double time_msec = 0.0;
 
     // starting out timer
 	clock_gettime(CLOCK_MONOTONIC, &start);
