@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "random-arrays.h": "c",
+        "time.h": "c"
+    }
+}
