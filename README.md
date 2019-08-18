@@ -8,9 +8,10 @@ The relevant folder(s) for each video
 |Video Topic|Relevant Repo|
 |---|---|
 |*Voting Systems and Arrows Theorem*|[*Voting Concesus*](https://github.com/JohnSongNow/youtube-tutorials/tree/master/voting-concesus)|
-|*Parallel Programming*|[*Parallel Programming*](https://github.com/JohnSongNow/youtube-tutorials/tree/master/parallel-programming)|
+|[*Parallel Programming*](https://www.youtube.com/watch?v=aucZUdvkVyI&t=)|[*Parallel Programming*](https://github.com/JohnSongNow/youtube-tutorials/tree/master/parallel-programming)|
 |*Greedy Algothrim*|[*Greedy Programming*](https://github.com/JohnSongNow/youtube-tutorials/tree/master/greedy-programming)|
 |*TCP vs UDP*|[*TCP vs UDP*](https://github.com/JohnSongNow/youtube-tutorials/tree/master/tcp-vs-udp)|
+|*Pathfinding*|[*Pathfinding*](https://github.com/JohnSongNow/youtube-tutorials/tree/master/tcp-vs-udp)|
 
 
 ## Contributing/Error Correction
