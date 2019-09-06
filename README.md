@@ -11,7 +11,7 @@ The relevant folder(s) for each video
 |[*Parallel Programming*](https://www.youtube.com/watch?v=aucZUdvkVyI&t=)|[*Parallel Programming*](https://github.com/JohnSongNow/youtube-tutorials/tree/master/parallel-programming)|
 |*Greedy Algothrim*|[*Greedy Programming*](https://github.com/JohnSongNow/youtube-tutorials/tree/master/greedy-programming)|
 |*TCP vs UDP*|[*TCP vs UDP*](https://github.com/JohnSongNow/youtube-tutorials/tree/master/tcp-vs-udp)|
-|*Pathfinding*|[*Pathfinding*](https://github.com/JohnSongNow/youtube-tutorials/tree/master/tcp-vs-udp)|
+|*Pathfinding*|[*Pathfinding*](https://github.com/JohnSongNow/youtube-videos/tree/master/pathfinding)|
 
 
 ## Contributing/Error Correction
